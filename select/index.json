@@ -1,0 +1,224 @@
+{
+  "version": 1,
+  "base_track": "愛情",
+  "base_artist": "Yuki Koyanagi",
+  "createdAt": "2026-03-20T15:16:31.601889Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "愛情 I Don't Know (Summer Mix)",
+      "artist": "林憶蓮",
+      "has_synced": false,
+      "path": "select/01_愛情_I_Don't_Know_(Summer_Mix)_林憶蓮.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "愛情 I Don’t Know",
+      "artist": "林憶蓮",
+      "has_synced": false,
+      "path": "select/02_愛情_I_Don’t_Know_林憶蓮.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "愛情，習作",
+      "artist": "盧廣仲",
+      "has_synced": true,
+      "path": "select/03_愛情,習作_盧廣仲.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "愛情",
+      "artist": "莫文蔚",
+      "has_synced": true,
+      "path": "select/04_愛情_莫文蔚.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "愛情",
+      "artist": "Aaron Kwok",
+      "has_synced": true,
+      "path": "select/05_愛情_Aaron_Kwok.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "愛情",
+      "artist": "Mavis Hee",
+      "has_synced": true,
+      "path": "select/06_愛情_Mavis_Hee.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "愛情 YOGURT",
+      "artist": "JJ Lin",
+      "has_synced": true,
+      "path": "select/07_愛情_YOGURT_JJ_Lin.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "愛情",
+      "artist": "Hebe Tien",
+      "has_synced": true,
+      "path": "select/08_愛情_Hebe_Tien.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "愛情",
+      "artist": "Karen Mok",
+      "has_synced": true,
+      "path": "select/09_愛情_Karen_Mok.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "愛情 Beautiful",
+      "artist": "JPM",
+      "has_synced": false,
+      "path": "select/10_愛情_Beautiful_JPM.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "愛情 I Don't Know",
+      "artist": "林憶蓮",
+      "has_synced": false,
+      "path": "select/11_愛情_I_Don't_Know_林憶蓮.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "愛情 [電影《青春火花》插曲]",
+      "artist": "黎瑞恩",
+      "has_synced": false,
+      "path": "select/12_愛情_[電影《青春火花》插曲]_黎瑞恩.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "愛情",
+      "artist": "張楚",
+      "has_synced": false,
+      "path": "select/13_愛情_張楚.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "愛情，幼稚！",
+      "artist": "陳奕迅",
+      "has_synced": true,
+      "path": "select/14_愛情,幼稚!_陳奕迅.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "愛情",
+      "artist": "郭富城",
+      "has_synced": true,
+      "path": "select/15_愛情_郭富城.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "愛情",
+      "artist": "Xu Wei",
+      "has_synced": true,
+      "path": "select/16_愛情_Xu_Wei.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "愛情",
+      "artist": "郭富城",
+      "has_synced": false,
+      "path": "select/17_愛情_郭富城.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "愛情",
+      "artist": "小柳 ゆき",
+      "has_synced": false,
+      "path": "select/pl_01_愛情_小柳_ゆき.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "愛情",
+      "artist": "小柳 ゆき",
+      "has_synced": false,
+      "path": "select/pl_02_愛情_小柳_ゆき.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "愛情",
+      "artist": "小柳 ゆき",
+      "has_synced": false,
+      "path": "select/pl_03_愛情_小柳_ゆき.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "愛情",
+      "artist": "小柳 ゆき",
+      "has_synced": false,
+      "path": "select/pl_04_愛情_小柳_ゆき.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "愛情",
+      "artist": "小柳 ゆき",
+      "has_synced": false,
+      "path": "select/pl_05_愛情_小柳_ゆき.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "愛情",
+      "artist": "小柳 ゆき",
+      "has_synced": false,
+      "path": "select/pl_06_愛情_小柳_ゆき.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "愛情",
+      "artist": "小柳 ゆき",
+      "has_synced": false,
+      "path": "select/pl_07_愛情_小柳_ゆき.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "愛情",
+      "artist": "小柳 ゆき",
+      "has_synced": false,
+      "path": "select/pl_08_愛情_小柳_ゆき.txt"
+    },
+    {
+      "id": "petitlyrics_9",
+      "source": "petitlyrics",
+      "title": "愛情 [Album Version]",
+      "artist": "小柳 ゆき",
+      "has_synced": false,
+      "path": "select/pl_09_愛情_[Album_Version]_小柳_ゆき.txt"
+    },
+    {
+      "id": "petitlyrics_10",
+      "source": "petitlyrics",
+      "title": "愛情 [Album Version]",
+      "artist": "小柳 ゆき",
+      "has_synced": false,
+      "path": "select/pl_10_愛情_[Album_Version]_小柳_ゆき.txt"
+    }
+  ]
+}
